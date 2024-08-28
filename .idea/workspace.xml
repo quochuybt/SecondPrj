@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b980b4b-02fe-4475-9c79-4b01c8b4855e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SecondPrj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iuh/fit/ktpm/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iuh/fit/ktpm/TestRectangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="2b980b4b-02fe-4475-9c79-4b01c8b4855e" name="Changes" comment="SecondProject" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,12 +62,42 @@
       <option name="presentableId" value="Default" />
       <updated>1724595605309</updated>
       <workItem from="1724595606445" duration="1583000" />
-      <workItem from="1724847159112" duration="1049000" />
+      <workItem from="1724847159112" duration="1182000" />
     </task>
+    <task id="LOCAL-00001" summary="Second Project">
+      <option name="closed" value="true" />
+      <created>1724848274116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724848274116</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second Project">
+      <option name="closed" value="true" />
+      <created>1724848324292</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724848324292</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SecondProject">
+      <option name="closed" value="true" />
+      <created>1724848348334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724848348334</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second Project" />
+    <MESSAGE value="SecondProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="SecondProject" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
